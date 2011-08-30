@@ -19,7 +19,7 @@
 				<option value="DIARIA">Diária</option>		
 				<option value="SEMANAL">Semanal</option>			
 			</select>
+			
 		</form>
-	
 	</body>
 </html>
