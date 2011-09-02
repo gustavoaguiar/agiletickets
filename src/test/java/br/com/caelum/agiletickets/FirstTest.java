@@ -8,6 +8,7 @@ public class FirstTest {
 
 	@Test
 	public void hello() throws Exception {
-		assertTrue(true);
+		//assertTrue(true);
+		return false;
 	}
 }
